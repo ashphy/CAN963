@@ -2,6 +2,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/can963.png)](http://badge.fury.io/rb/can963)
 [![Build Status](https://travis-ci.org/ashphy/CAN963.png)](https://travis-ci.org/ashphy/CAN963)
+[![Code Climate](https://codeclimate.com/github/ashphy/CAN963.png)](https://codeclimate.com/github/ashphy/CAN963)
 
 Check CAN963 out!
 
