@@ -1,5 +1,7 @@
 # Can963
 
+[![Build Status](https://travis-ci.org/ashphy/CAN963.png)](https://travis-ci.org/ashphy/CAN963)
+
 Check CAN963 out!
 
 ## Installation
