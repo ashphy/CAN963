@@ -8,7 +8,7 @@ describe Can963 do
   describe 'version' do
     it 'should print the current version of CAN963' do
       text = Capture.stdout { can963.version }
-      text.chomp.should == '969.0.0'
+      text.chomp.should == '969.0.1'
     end
   end
 end
