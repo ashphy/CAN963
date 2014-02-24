@@ -25,5 +25,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rspec", "~> 2.14"
   spec.add_development_dependency "capture-output", "~> 1"
   spec.add_development_dependency "rubocop", "~> 0.18"
-  spec.add_development_dependency "coveralls", "~> 0.7.0"
+  spec.add_development_dependency "coveralls", "~> 0.7"
 end
